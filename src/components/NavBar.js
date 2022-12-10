@@ -2,12 +2,12 @@ import React from "react"
 
 export const NavBar = () => {
   return (
-    <div>
+    <div className="flex justify-between min-w-full">
       <div className="logo">
         <img src="./indivirtus-logo.png" alt="logo" />
       </div>
       <nav>
-        <ul>
+        <ul className="flex">
           <li>Home</li>
           <ul>
             <li>About us</li>
