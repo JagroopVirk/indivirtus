@@ -7,7 +7,7 @@ import { faPhone } from "@fortawesome/free-solid-svg-icons"
 
 export const TopBar = () => {
   return (
-    <section className="bg-primary w-full text-secondary">
+    <section className="bg-primary w-full text-secondary text-center">
       <h3>
         <p>
           <span>
