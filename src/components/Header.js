@@ -6,9 +6,7 @@ export const Header = () => {
   return (
     <header>
       <TopBar />
-      <section>
         <NavBar />
-      </section>
     </header>
   )
 }
