@@ -8,7 +8,7 @@ export const NavBar = () => {
         <img src="./indivirtus-logo.png" alt="logo" />
       </div>
 
-      <nav className="flex justify-between w-4/5">
+      <nav className="flex justify-between w-4/5 text-primary">
         <Menu>
           <Menu.Button>
             <a href="#">Home</a>
